@@ -1,0 +1,4 @@
+Hello team, please contact support@codealpha.tech for help.
+Interns can mail hr.team@codealpha.tech or nihal.dev@gmail.com.
+Duplicate: support@codealpha.tech
+Not an email: hello@ world
